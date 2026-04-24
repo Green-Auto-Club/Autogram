@@ -1,5 +1,26 @@
 {
+  "main": "src/App.js",
+  "name": "green-auto-club-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
   "dependencies": {
-    "pg": "^8.20.0"
+    "@react-native/metro-config": "^0.85.2",
+    "axios": "^1.15.2",
+    "expo": "~55.0.17",
+    "expo-image-picker": "~55.0.19",
+    "react": "19.2.0",
+    "react-native": "0.83.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
+    "@babel/runtime": "^7.29.2",
+    "babel-preset-expo": "^55.0.18",
+    "metro-react-native-babel-preset": "^0.76.0"
   }
 }
