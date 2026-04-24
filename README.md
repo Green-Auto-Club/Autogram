@@ -27,7 +27,7 @@ Para garantir que a plataforma não se desintegre na primeira curva, utilizámos
 * **Exploração Especializada:** Filtros por categorias (Supercarros, Clássicos, Tunados, JDM, etc.).
 * **Perfis Personalizados:** A tua garagem virtual, onde o teu carro é a foto de perfil.
 
-## 🧠 Moderação Inteligente (Anti-Humano)
+## 🧠 Moderação Inteligente 
 
 Não confiamos em critérios subjetivos. Utilizamos modelos avançados de visão computacional para garantir a pureza do feed:
 
@@ -37,11 +37,11 @@ Não confiamos em critérios subjetivos. Utilizamos modelos avançados de visão
 
 ---
 
-### Como Instalar (Para quem sabe o que está a fazer)
+### Como Instalar 
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/teu-usuario/green-auto-club.git](https://github.com/teu-usuario/green-auto-club.git)
+git clone [https://github.com/usuario/green-auto-club.git](https://github.com/usuario/green-auto-club.git)
 
 # Instalar as dependências do motor
 npm install
